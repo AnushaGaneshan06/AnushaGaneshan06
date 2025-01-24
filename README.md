@@ -4,7 +4,12 @@
 
  - 🔭 𝐈’𝐦 𝐜𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧 𝐚 𝐩𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐭𝐨 𝐝𝐞𝐯𝐞𝐥𝐨𝐩 𝐚 𝐫𝐞𝐬𝐩𝐨𝐧𝐬𝐢𝐯𝐞 𝐰𝐞𝐛𝐬𝐢𝐭𝐞 𝐮𝐬𝐢𝐧𝐠 𝐏𝐲𝐭𝐡𝐨𝐧 𝐚𝐧𝐝 𝐟𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬.
  - 🌱 𝐀𝐜𝐭𝐢𝐯𝐞𝐥𝐲 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐩𝐲𝐭𝐡𝐨𝐧, 𝐃𝐣𝐚𝐧𝐠𝐨 𝐚𝐧𝐝 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐀𝐏𝐈 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐢𝐧 𝐏𝐲𝐭𝐡𝐨𝐧 𝐭𝐨 𝐞𝐧𝐡𝐚𝐧𝐜𝐞 𝐦𝐲 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐜𝐚𝐩𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬.
-- 📫 𝐇𝐨𝐰 𝐭𝐨 𝐫𝐞𝐚𝐜𝐡 𝐦𝐞: anushaganeshan06@gmail.com 𝐨𝐫 𝐜𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐦𝐞 𝐨𝐧 [𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧](https://github.com/AnushaGaneshan06).
+
+- 🌐 Connect with Me
+- **Email**: [anushaganeshan06@gmail.com](mailto:anushaganeshan06@gmail.com)
+- **Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)**.
+- **Location**: Coimbatore, Tamil Nadu
+
 
 ![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushaGaneshan06&show_icons=true&theme=radical).
 
