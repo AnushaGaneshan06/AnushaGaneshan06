@@ -1,11 +1,8 @@
-### Hi, I'm Anuhsa!! 👋
-
-A 2024 Computer Science BSc graduate passionate about Python and front-end development. 
-I have completed full-stack Python courses and am keen to continue expanding my skill set.
-
-- 🔭 I’m currently working on a personal project to develop a responsive website using Python and front-end technologies.
-- 🌱 Actively learning python, Django and exploring API development in Python to enhance my full-stack capabilities.
-- 📫 How to reach me: anushaganeshan06@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/anusha-ganeshan123/).
+## Hi, I'm Anusha!! 👋
+ᴀ 𝟸𝟶𝟸𝟺 ᴄᴏᴍᴘᴜᴛᴇʀ sᴄɪᴇɴᴄᴇ ʙsᴄ ɢʀᴀᴅᴜᴀᴛᴇ ᴘᴀssɪᴏɴᴀᴛᴇ ᴀʙᴏᴜᴛ ᴘʏᴛʜᴏɴ ᴀɴᴅ ғʀᴏɴᴛ-ᴇɴᴅ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ.  ɪ ʜᴀᴠᴇ ᴄᴏᴍᴘʟᴇᴛᴇᴅ ғᴜʟʟ-sᴛᴀᴄᴋ ᴘʏᴛʜᴏɴ ᴄᴏᴜʀsᴇs ᴀɴᴅ ᴀᴍ ᴋᴇᴇɴ ᴛᴏ ᴄᴏɴᴛɪɴᴜᴇ ᴇxᴘᴀɴᴅɪɴɢ ᴍʏ sᴋɪʟʟ sᴇᴛ.  
+  - 🔭 ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ᴡᴏʀᴋɪɴɢ ᴏɴ ᴀ ᴘᴇʀsᴏɴᴀʟ ᴘʀᴏᴊᴇᴄᴛ ᴛᴏ ᴅᴇᴠᴇʟᴏᴘ ᴀ ʀᴇsᴘᴏɴsɪᴠᴇ ᴡᴇʙsɪᴛᴇ ᴜsɪɴɢ ᴘʏᴛʜᴏɴ ᴀɴᴅ ғʀᴏɴᴛ-ᴇɴᴅ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇs.
+  - 🌱 ᴀᴄᴛɪᴠᴇʟʏ ʟᴇᴀʀɴɪɴɢ ᴘʏᴛʜᴏɴ, ᴅᴊᴀɴɢᴏ ᴀɴᴅ ᴇxᴘʟᴏʀɪɴɢ ᴀᴘɪ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ɪɴ ᴘʏᴛʜᴏɴ ᴛᴏ ᴇɴʜᴀɴᴄᴇ ᴍʏ ғᴜʟʟ-sᴛᴀᴄᴋ ᴄᴀᴘᴀʙɪʟɪᴛɪᴇs.
+  - 📫 How to reach me: anushaganeshan06@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/anusha-ganeshan123/).
 
 
 ![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushaGaneshan06&show_icons=true&theme=radical).
