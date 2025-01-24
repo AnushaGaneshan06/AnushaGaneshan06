@@ -12,7 +12,7 @@
 I’m looking for developer roles where I can apply my skills in Python, Django, JavaScript, and web development. 
 Eager to contribute to meaningful projects and grow in a collaborative environment. Let's connect!
 
----
+
 
 ## 🌐 Socials:
 🌟 Let’s connect and grow together:  
