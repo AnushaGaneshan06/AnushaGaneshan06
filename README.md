@@ -1,11 +1,11 @@
 ## Hi, I'm Anusha 👋  
 
-𝐀 𝟐𝟎𝟐𝟒 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐁𝐒𝐜 𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞, 𝐚 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐩𝐲𝐭𝐡𝐨𝐧𝐢𝐬𝐭, 𝐚𝐧𝐝 𝐚𝐬𝐩𝐢𝐫𝐢𝐧𝐠 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫!  
-𝐈 𝐭𝐡𝐫𝐢𝐯𝐞 𝐨𝐧 𝐜𝐫𝐚𝐟𝐭𝐢𝐧𝐠 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐜𝐨𝐝𝐞, 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 𝐰𝐞𝐛𝐬𝐢𝐭𝐞𝐬, 𝐚𝐧𝐝 𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬 𝐰𝐢𝐭𝐡 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲.  
+  𝐀 𝟐𝟎𝟐𝟒 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐁𝐒𝐜 𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐏𝐲𝐭𝐡𝐨𝐧 𝐚𝐧𝐝 𝐟𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.  
+  𝐈 𝐡𝐚𝐯𝐞 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐝 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐏𝐲𝐭𝐡𝐨𝐧 𝐜𝐨𝐮𝐫𝐬𝐞𝐬 𝐚𝐧𝐝 𝐚𝐦 𝐤𝐞𝐞𝐧 𝐭𝐨 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐞 𝐞𝐱𝐩𝐚𝐧𝐝𝐢𝐧𝐠 𝐦𝐲 𝐬𝐤𝐢𝐥𝐥 𝐬𝐞𝐭.
 
 ### 🔭 What I’m Working On:
-- 🌐 **Current Project**: Building a responsive web application with Python, front-end technologies, and Bootstrap.  
-- 📚 **Active Learning**: Django, REST API development, and Bootstrap for enhanced UI/UX.  
+- 🌐 **Current Project**: Building a responsive website using Html, Css Bootstrap and Javascript.  
+- 📚 **Active Learning**: I’m actively learning Python, Django, and API development to strengthen my full-stack expertise. 
 
 ---
 
@@ -13,27 +13,27 @@
 🌟 Let’s connect and grow together:  
 - 📧   [Email me](mailto:anushaganeshan06@gmail.com)  
 - 🌐   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anusha-ganeshan123)
-- 
+- ✖️   [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnushaG1802)  
 ---
 
 ## 💻 Tech Stack:
 
-### **Languages**  
+### **Languages**  <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 
 ---
 
-### **Frameworks and Libraries**  
+### **Frameworks and Libraries**  <br>
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 ---
 
-### **Databases**  
+### **Databases**  <br>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 ---
 
-### **Tools & Platforms**  
+### **Tools & Platforms**  <br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  
 
 ---
