@@ -7,7 +7,7 @@
 
  🌐 Connect with Me
 - **Email**: [anushaganeshan06@gmail.com](mailto:anushaganeshan06@gmail.com)
-- **Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)**.
+- **Linkdin Profile** :[LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
 - **Location**: Coimbatore, Tamil Nadu
 
 
