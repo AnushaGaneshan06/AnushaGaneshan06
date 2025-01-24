@@ -43,8 +43,8 @@
 ## 📈 GitHub Stats:
 📊 **Here’s a snapshot of my work:**  
 <div align="center">
-  <img width="390" height="300" src="https://github-readme-stats.vercel.app/api?username=AnushaGaneshan06&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushaGaneshan06&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top languages"/>
+  <img width="390" height="800" src="https://github-readme-stats.vercel.app/api?username=AnushaGaneshan06&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub stats"/>
+  <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushaGaneshan06&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top languages"/>
 </div>
 
 
