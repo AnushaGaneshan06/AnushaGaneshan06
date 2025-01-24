@@ -8,6 +8,11 @@
 - 📚 **Active Learning**: I’m actively learning Python, Django, and API development to strengthen my full-stack expertise. 
 
 ---
+### 💼 **Currently Seeking Job Opportunities**  
+I’m looking for developer roles where I can apply my skills in Python, Django, JavaScript, and web development. 
+Eager to contribute to meaningful projects and grow in a collaborative environment. Let's connect!
+
+---
 
 ## 🌐 Socials:
 🌟 Let’s connect and grow together:  
