@@ -1,4 +1,4 @@
-## Hi, I'm Anusha!
+## Hi, I'm Anusha
 
  𝐀 𝟐𝟎𝟐𝟒 𝐂𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐁𝐒𝐜 𝐠𝐫𝐚𝐝𝐮𝐚𝐭𝐞 𝐩𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐚𝐛𝐨𝐮𝐭 𝐏𝐲𝐭𝐡𝐨𝐧 𝐚𝐧𝐝 𝐟𝐫𝐨𝐧𝐭-𝐞𝐧𝐝 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.  𝐈 𝐡𝐚𝐯𝐞 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐝 𝐟𝐮𝐥𝐥-𝐬𝐭𝐚𝐜𝐤 𝐏𝐲𝐭𝐡𝐨𝐧 𝐜𝐨𝐮𝐫𝐬𝐞𝐬 𝐚𝐧𝐝 𝐚𝐦 𝐤𝐞𝐞𝐧 𝐭𝐨 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐞 𝐞𝐱𝐩𝐚𝐧𝐝𝐢𝐧𝐠 𝐦𝐲 𝐬𝐤𝐢𝐥𝐥 𝐬𝐞𝐭.
 
@@ -7,8 +7,8 @@
 
 
 ## 🌐 Socials:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anusha-ganeshan123) <br/><br/> 
-- [anushaganeshan06@gmail.com](mailto:anushaganeshan06@gmail.com)<br/><br/>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anusha-ganeshan123) <br/>
+- [anushaganeshan06@gmail.com](mailto:anushaganeshan06@gmail.com)<br/>
 - [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnushaG1802) <br/>
 
 
