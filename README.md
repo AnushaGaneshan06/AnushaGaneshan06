@@ -8,5 +8,5 @@ I have completed full-stack Python courses and am keen to continue expanding my 
 - 📫 How to reach me: anushaganeshan06@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/anusha-ganeshan123/).
 
 
-![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushaGaneshan06&show_icons=true&theme=radical)
+![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushaGaneshan06&show_icons=true&theme=radical).
 
