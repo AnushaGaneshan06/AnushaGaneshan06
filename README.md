@@ -7,9 +7,9 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anusha-ganeshan123) <br/><br/>
-[anushaganeshan06@gmail.com](mailto:anushaganeshan06@gmail.com)<br/><br/>
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnushaG1802) <br/>
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anusha-ganeshan123) <br/><br/> 
+- [anushaganeshan06@gmail.com](mailto:anushaganeshan06@gmail.com)<br/><br/>
+- [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AnushaG1802) <br/>
 
 
 # 💻 Tech Stack:
@@ -17,16 +17,10 @@
 
 
 # 📊 GitHub Stats:
-![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushaGaneshan06&show_icons=true&theme=radical).<br/>
+![Anusha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnushaGaneshan06&show_icons=true&theme=radical).<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnushaGaneshan06&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnushaGaneshan06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AnushaGaneshan06&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=AnushaGaneshan06&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
