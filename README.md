@@ -4,9 +4,6 @@
 𝐈 𝐭𝐡𝐫𝐢𝐯𝐞 𝐨𝐧 𝐜𝐫𝐚𝐟𝐭𝐢𝐧𝐠 𝐞𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐭 𝐜𝐨𝐝𝐞, 𝐛𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐝𝐲𝐧𝐚𝐦𝐢𝐜 𝐰𝐞𝐛𝐬𝐢𝐭𝐞𝐬, 𝐚𝐧𝐝 𝐬𝐨𝐥𝐯𝐢𝐧𝐠 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐩𝐫𝐨𝐛𝐥𝐞𝐦𝐬 𝐰𝐢𝐭𝐡 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐲.
 
 
-
----
-
 ### 🔭 What I’m Working On:
 - 🌐 **Current Project**: Building a responsive web application with Python, front-end technologies, and Bootstrap.  
 - 📚 **Active Learning**: Django, REST API development, and Bootstrap for enhanced UI/UX.  
@@ -32,9 +29,7 @@
 ---
 
 ### **Frameworks and Libraries**  
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 
 ---
 
