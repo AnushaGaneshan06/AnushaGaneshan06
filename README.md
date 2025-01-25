@@ -42,26 +42,14 @@
 
 ## 📈 GitHub Stats:
 📊 **Here’s a snapshot of my work:**  
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
-  <img height="200"  src="https://github-readme-stats.vercel.app/api?username=AnushaGaneshan06&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub stats"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushaGaneshan06&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top languages"/>
-<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AnushaGaneshan06&theme=radical&hide_border=false&border=FFFFFF&border_radius=10" alt="GitHub Streak Stats"/>
-
-</div>
-
-## 📈 GitHub Stats:
-📊 **Here’s a snapshot of my work:**  
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 80px;">
     <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnushaGaneshan06&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub stats"/>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushaGaneshan06&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top languages"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushaGaneshan06&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top languages"/><br>
     <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AnushaGaneshan06&theme=radical&hide_border=false&border=FFFFFF&border_radius=10" alt="GitHub Streak Stats"/>
   </div>
 </div>
-
-
-
 
 
 
