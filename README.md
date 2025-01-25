@@ -44,11 +44,11 @@
 📊 **Here’s a snapshot of my work:**  
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 80px;">
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=AnushaGaneshan06&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub stats"/>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushaGaneshan06&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top languages"/><br>
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AnushaGaneshan06&theme=radical&hide_border=false&border=FFFFFF&border_radius=10" alt="GitHub Streak Stats"/>
-    <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnushaGaneshan06&theme=radical&border=FFFFFF&border_radius=10&hide_border=true" height="150" alt="Languages Used"/>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 50px;">
+    <img width="200" height="200" src="https://github-readme-stats.vercel.app/api?username=AnushaGaneshan06&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="GitHub stats"/>
+    <img width="200" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnushaGaneshan06&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top languages"/><br>
+    <img width="200" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=AnushaGaneshan06&theme=radical&hide_border=false&border=FFFFFF&border_radius=10" alt="GitHub Streak Stats"/>
+    <img width="200" height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnushaGaneshan06&theme=radical&border=FFFFFF&border_radius=10&hide_border=true" alt="Languages Used"/>
   </div>
 </div>
 
