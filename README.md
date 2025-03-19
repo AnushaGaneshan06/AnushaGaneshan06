@@ -52,16 +52,4 @@
 </div>
 
 
-
-
-
-
-
-## 🏆 GitHub Trophies:
-🏅 **Celebrating my milestones:**  
-<div align="center">  
-  <img src="https://github-profile-trophy.vercel.app/?username=AnushaGaneshan06&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />  
-</div>  
-
-
-✨ Thanks for visiting my profile! Feel free to explore my work or connect with me. Let’s build something amazing together! 🚀  
+for visiting my profile! Feel free to explore my work or connect with me. Let’s build something amazing together! 🚀  
